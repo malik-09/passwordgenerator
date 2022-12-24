@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #afe4cc;
+}
+.con {
+  margin: 120px;
+  padding-top: 80px;
+}
+.container {
+  width: 700px;
+  height: 550px;
+  background-color: #ecfdf5;
+  /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  margin: auto;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+h1 {
+  font-size: 40px;
+  color: #2b283a;
+}
+span {
+  color: #10b981;
+}
+.container p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-top: 15px;
+  color: #6b7280;
+}
+button {
+  margin-top: 40px;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  background: #10b981;
+  border: none;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  width: 200px;
+  height: 42px;
+  color: #ffffff;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 24px;
+}
+input {
+  width: 446px;
+  height: 0px;
+  border: 1px solid #d5d4d8;
+}
+.passwords {
+  display: flex;
+}
+
+.first {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+
+  color: #5def92;
+  margin-top: 17px;
+  width: 211px;
+  height: 39px;
+  background: #273549;
+  border-radius: 6px;
+}
+.sec {
+  margin-left: 15px;
+}
